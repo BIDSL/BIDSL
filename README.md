@@ -2,9 +2,10 @@
 ------------------------------------------------------------------------------------------
 Power Platform Solution Architect with extensive knowledge on PowerApps / First Party Apps, Azure and expert in Data Migration
 
-**Reach Me**
+**Connect with me**
 
 [![linkedin_1](https://user-images.githubusercontent.com/125174051/221963049-9fa8c68c-8fe0-41fe-a7dd-3ad738ea63ff.png)](https://linkedin.com/in/kvmaniraj)
+
 
 
 
