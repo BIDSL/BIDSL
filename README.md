@@ -4,7 +4,9 @@ Power Platform Solution Architect with extensive knowledge on PowerApps / First 
 
 **Connect with me**
 
-[![linkedin_1](https://user-images.githubusercontent.com/125174051/221963049-9fa8c68c-8fe0-41fe-a7dd-3ad738ea63ff.png)](https://linkedin.com/in/kvmaniraj)
+[![linkedin_1](https://user-images.githubusercontent.com/125174051/221963049-9fa8c68c-8fe0-41fe-a7dd-3ad738ea63ff.png)](https://linkedin.com/in/kvmaniraj)    [![youtube](https://user-images.githubusercontent.com/125174051/224049796-e86630a8-f0b2-437b-93ad-888095211b37.png)](https://www.youtube.com/@bidslimited)
+
+
 
 
 
